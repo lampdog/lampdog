@@ -1,5 +1,5 @@
 ## So...
-### my name is André.
+### ...my name is André.
 ### And I like to make games with Python/Pygame and Godot 💙
 
 <div style="display: inline_block"><br>
