@@ -1,6 +1,6 @@
 ## So...
 ### my name is André.
-### Python and Godot 💙
+### And I like to make games with Python/Pygame and Godot 💙
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Dre-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
